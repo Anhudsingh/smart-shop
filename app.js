@@ -6,7 +6,7 @@
  */
 
 // Developer details for project validation
-const DEVELOPER_NAME = "Anhud Singh Kondal";
+const DEVELOPER_NAME = "Anhud Singh";
 const COURSE_BRANCH = "B.Tech in Computer Science & Engineering (Final Year)";
 const ACADEMIC_YEAR = "2025 - 2026";
 
